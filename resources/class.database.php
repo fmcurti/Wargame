@@ -83,6 +83,3 @@ class Database
 } // Class : end
 
 ?>
-amex 3777 91009329763
-3065
-0822
